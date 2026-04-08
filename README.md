@@ -7,7 +7,7 @@ Yang Zhang<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [
 
 This repository provides the official implementation for the paper "Wavelet-Domain Masked Image Modeling for Color-Consistent HDR Video Reconstruction", IEEE Transactions on Multimedia (TMM), 2026. 
 
-<!-- [Paper-arXiv](https://arxiv.org/abs/TODO) -->
+[Paper-arXiv](https://arxiv.org/abs/2602.07393)
 
 
 ![Teaser](./readme-img/WMNet.png)

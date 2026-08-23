@@ -8,8 +8,6 @@ Yang Zhang<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [
 
 <sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory
 
-[Paper-official](https://ieeexplore.ieee.org/abstract/document/11557199/) | [Paper-arXiv](https://arxiv.org/abs/2602.07393)
-
 IEEE Transactions on Multimedia (TMM), 2026
 </h4>
 
@@ -22,7 +20,7 @@ Yang Zhang<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [
 
 <sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory -->
 
-This repository provides the official implementation for the paper "Wavelet-Domain Masked Image Modeling for Color-Consistent HDR Video Reconstruction", IEEE Transactions on Multimedia (TMM), 2026. 
+This repository provides the official implementation for the paper "Wavelet-Domain Masked Image Modeling for Color-Consistent HDR Video Reconstruction", IEEE Transactions on Multimedia (TMM), 2026. [Paper-official](https://ieeexplore.ieee.org/abstract/document/11557199/) | [Paper-arXiv](https://arxiv.org/abs/2602.07393)
 
 <!-- [Paper-arXiv](https://arxiv.org/abs/2602.07393) -->
 

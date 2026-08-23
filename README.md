@@ -1,9 +1,24 @@
-# Wavelet-Domain Masked Image Modeling for Color-Consistent HDR Video Reconstruction
-#### IEEE Transactions on Multimedia (TMM), 2026
+<div align="center">
+  <h1>Wavelet-Domain Masked Image Modeling for Color-Consistent HDR Video Reconstruction</h1>
+</div>
+
+<h4 align="center"> 
 
 Yang Zhang<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=zh-CN)<sup>1</sup>
 
 <sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory
+
+IEEE Transactions on Multimedia (TMM), 2026
+</h4>
+
+
+
+<!-- # Wavelet-Domain Masked Image Modeling for Color-Consistent HDR Video Reconstruction
+#### IEEE Transactions on Multimedia (TMM), 2026
+
+Yang Zhang<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=zh-CN)<sup>1</sup>
+
+<sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory -->
 
 This repository provides the official implementation for the paper "Wavelet-Domain Masked Image Modeling for Color-Consistent HDR Video Reconstruction", IEEE Transactions on Multimedia (TMM), 2026. 
 

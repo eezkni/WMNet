@@ -81,7 +81,7 @@ Please organize the dataset structure in accordance with Section 4.A.1 of the pa
 ## Directory structure for the datasets
 
 <details>
-  <summary> (click to expand;) </summary>
+  <summary> Dataset Structure (click to expand) </summary>
 
     data_path
     ├── HDRTV4KSence
